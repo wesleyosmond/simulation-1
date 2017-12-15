@@ -1,0 +1,25 @@
+body {
+}
+
+.main {
+    /* 23E */
+    background-color: #ab2a19;
+    width: 100vw;
+    height: 55px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+/* 22C-2 */
+.shelves {
+    background-color: #d34753;
+    width: 50vw;
+    height: 55px;
+    /* 27G */
+    display: flex;
+    
+    /* 27D */
+    align-items: center;
+    border-radius: 10%;
+}
